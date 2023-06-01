@@ -20,3 +20,14 @@ Installation:
 1. Clone the repository: https://github.com/SANJAY-P-M/FlutterIDCard
 2. Install Flutter dependencies: Create new flutter project and replace pubspec.yaml file and main.dart , also add images and fonts folder in your project
 3. Run the app on an emulator or physical device: use android studio
+
+
+flutter
+mobile-app
+id-card
+ui-design
+college
+sri-shakthi-institute-of-engineering-and-technology
+digital-identification
+personalization
+open-source
