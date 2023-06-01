@@ -14,6 +14,8 @@ Key Features:
 
 - User-Friendly Interface: CollegeIDCardApp provides a seamless user experience with an intuitive interface. The ID card can be easily viewed, zoomed in for detailed inspection, and displayed to relevant authorities when required.
 
+  ![App Screenshot](output.png)
+
 Installation:
 1. Clone the repository: https://github.com/SANJAY-P-M/FlutterIDCard
 2. Install Flutter dependencies: Create new flutter project and replace pubspec.yaml file and main.dart , also add images and fonts folder in your project
